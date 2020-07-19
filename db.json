@@ -1,0 +1,45 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Iphone X",
+            "price": 1599
+        },
+        {
+            "id": 2,
+            "name": "Samsung A10s",
+            "price": 230
+        },
+        {
+            "id": 3,
+            "name": "Iphone 8",
+            "price": 450
+        },
+        {
+            "id": 4,
+            "name": "Razor",
+            "price": 620
+        },
+        {
+            "id": 5,
+            "name": "Ipod",
+            "price": 580
+        },
+        {
+            "id": 6,
+            "name": "Samsung A31",
+            "price": 470
+        },
+        {
+            "id": 7,
+            "name": "Samsung A30s",
+            "price": 1500
+        },
+        {
+            "id": 8,
+            "name": "Ipad Air",
+            "price": 899
+        }
+    ],
+    "cart": []
+}
